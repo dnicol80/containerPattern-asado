@@ -1,12 +1,12 @@
 import React from "react";
 import "./styles.css";
 
-import AsadoContainer from "./AsadoContainer";
+import CalculadoraAsadoContainer from "./CalculadoraAsadoContainer";
 
 export default function App() {
   return (
     <div className="App">
-      <AsadoContainer />
+      <CalculadoraAsadoContainer />
     </div>
   );
 }
